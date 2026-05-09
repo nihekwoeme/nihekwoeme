@@ -12,6 +12,7 @@ Electrical engineering student passionate about computer and embedded systems. I
 ## Featured Projects
 
 ### Marine RTK GPS Buoy (Scripps MPL)
+[![Marine RTK Buoy](./RTK_Buoy_Working.png)](./Marine_RTK_Buoy_Portfolio.pdf)
 An autonomous marine buoy for oceanographic research, combining ESP32 firmware, a u-blox ZED-F9P RTK GPS, a SIM7000 LTE modem, and an OpenLog Artemis IMU. Streams NTRIP corrections over cellular to achieve 0.97 cm horizontal precision and a 94% RTK fix rate over a 7.5-hour autonomous field test. Presented at IEEE Rising Stars 2026.
 
 ### Satellite Cyber Attack & Defense (Viasat SAT-CyAD)
