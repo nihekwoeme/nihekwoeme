@@ -21,7 +21,7 @@ An autonomous marine buoy for oceanographic research, combining ESP32 firmware, 
 ### Satellite Cyber Attack & Defense (Viasat SAT-CyAD)
 Built reliability infrastructure for a live GOES weather satellite ground station, sponsored by Viasat under the US Space Force Hybrid Space Architecture initiative. Designed systemd services, a 3-layer fault simulation system, and a JSON evidence pipeline mapped to the SPARTA threat framework.
 
-[Portfolio](./Viasat_Satellite_Cyber_Attack_&_Defense_Portfolio.pdf)
+[![Portfolio](./Ground_Station_Satellite.png)](./Viasat_Satellite_Cyber_Attack_&_Defense_Portfolio.pdf)
 
 ### Autonomous RC Car
 ROS2 and OpenCV-based perception and control for a 1/10-scale self-driving car. Used Docker to coordinate simulation (Donkey-Sim) and hardware (Jetson Nano) environments.
