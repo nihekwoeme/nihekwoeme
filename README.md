@@ -15,7 +15,7 @@ Electrical engineering student passionate about computer and embedded systems. I
 
 An autonomous marine buoy for oceanographic research, combining ESP32 firmware, a u-blox ZED-F9P RTK GPS, a SIM7000 LTE modem, and an OpenLog Artemis IMU. Streams NTRIP corrections over cellular to achieve 0.97 cm horizontal precision and a 94% RTK fix rate over a 7.5-hour autonomous field test. Presented at IEEE Rising Stars 2026.
 
-[![Marine RTK Buoy](./RTK_Buoy_Working.jpg)](./Marine_RTK_Buoy_Portfolio.pdf)
+[![Marine RTK Buoy](./RTK_GPS_Photo_Collage.png)](./Marine_RTK_Buoy_Portfolio.pdf)
 
 
 ### Satellite Cyber Attack & Defense (Viasat SAT-CyAD)
