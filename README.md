@@ -1,28 +1,32 @@
-# Hey, I'm Amara 👋
+# Hey, I'm Amara 
 
-Electrical engineering student passionate about computer and embedded systems. Essentially, I love working at the intersection of hardware and software, whether its firmware for microcontrollers or debeugging low level code.
+Electrical engineering student passionate about computer and embedded systems. I love working at the intersection of hardware and software, whether it's firmware for microcontrollers or debugging low-level code.
 
 ## What I Work With
 
 **Languages:** Python, C/C++, LEGv8 Assembly, Verilog  
 **Embedded Platforms:** ESP32, Arduino, FPGA (Vivado)  
 **Tools & Frameworks:** ROS2, OpenCV, MATLAB, AutoCAD, OnShape  
-**Protocols:** I2C, SPI, UBX, RTCM
+**Protocols:** I2C, SPI, UART, UBX, RTCM, NTRIP
 
 ## Featured Projects
 
-### RTK GPS Data Logger
-A precision positioning system combining ESP32, ZED-F9P RTK GPS, cellular connectivity (SIM7000A), and SparkFun OpenLog Artemis. Achieves centimeter-level accuracy with real-time RTCM corrections and IMU sensor fusion. Includes MATLAB tools for GPS precision validation.
+### Marine RTK GPS Buoy (Scripps MPL)
+An autonomous marine buoy for oceanographic research, combining ESP32 firmware, a u-blox ZED-F9P RTK GPS, a SIM7000 LTE modem, and an OpenLog Artemis IMU. Streams NTRIP corrections over cellular to achieve 0.97 cm horizontal precision and a 94% RTK fix rate over a 7.5-hour autonomous field test. Presented at IEEE Rising Stars 2026.
 
-### Autonomous Vehicle Work
-ROS2-based projects exploring perception and control for self-driving applications.
+### Satellite Cyber Attack & Defense (Viasat SAT-CyAD)
+Built reliability infrastructure for a live GOES weather satellite ground station, sponsored by Viasat under the US Space Force Hybrid Space Architecture initiative. Designed systemd services, a 3-layer fault simulation system, and a JSON evidence pipeline mapped to the SPARTA threat framework.
 
+### Autonomous RC Car
+ROS2 and OpenCV-based perception and control for a 1/10-scale self-driving car. Used Docker to coordinate simulation (Donkey-Sim) and hardware (Jetson Nano) environments.
 
 ## Currently Exploring
 
-- Satellite cybersecurity
+- PCB design
+- AI and machine learning coursework
 - Low-level systems programming
 
 ## Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/amara-ihekwoeme-134865247)
+- [LinkedIn](https://www.linkedin.com/in/amaraihek)
+- amaraihek12@gmail.com
